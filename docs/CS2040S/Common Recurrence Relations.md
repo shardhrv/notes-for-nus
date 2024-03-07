@@ -1,4 +1,4 @@
-#ComputerScience #DSA 
+
 [[CS2040S Home Page]]
 ## Recurrence Relations
 **Note:** a, b, d and k are all constant values

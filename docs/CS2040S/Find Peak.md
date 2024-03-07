@@ -1,6 +1,6 @@
 [[CS2040S Home Page]] | [[Peak Finding]] | [[1-dimension Peak Finding]]
 
-##### Linear sort implementation
+### Linear sort implementation
 FindPeak:
 	Start from `A[1]`
 	 Examine every element
@@ -8,7 +8,7 @@ FindPeak:
 
 Runs in O(n)
 
-##### Binary Search Implementation: 
+### Binary Search Implementation: 
 
 FindPeak: 
 ```

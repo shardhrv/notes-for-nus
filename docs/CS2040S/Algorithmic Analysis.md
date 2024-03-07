@@ -1,4 +1,3 @@
-#ComputerScience #DSA #Algorithms
 [[CS2040S Home Page]]
 
 ## Algorithms
