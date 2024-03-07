@@ -1,4 +1,4 @@
-[[IS1108 Table of Contents]] | [[Professional Ethics]]
+[[IS1108 Home Page]] | [[Professional Ethics]]
 ### Process
 
 What kind of an outcome should I produce (or try to produce)?

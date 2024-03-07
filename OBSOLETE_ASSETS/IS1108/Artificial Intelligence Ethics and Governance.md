@@ -1,4 +1,4 @@
-[[IS1108 Table of Contents]]
+[[IS1108 Home Page]]
 
 ## What is AI
 

@@ -1,4 +1,4 @@
-[[IS1108 Table of Contents]]
+[[IS1108 Home Page]]
 ## Personal Data Protection Act (PDPA)
 
 **Personal Data** is data, whether correct or not, that can be used to identify an individual either 

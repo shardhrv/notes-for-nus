@@ -27,7 +27,9 @@ Follow these [MIT slides](https://courses.csail.mit.edu/6.006/spring11/lectures/
 
 Broken down into these steps:
 Step 1: Find MAX element (g) in the border and cross (purple). If it is a peak, DONE.
+
 ![[CS2040S - O(n) Peak finding 2D.png]]
+
 Step 2: If it is not, recurse on quadrant with the element bigger than g (h).
 
 ### Proof

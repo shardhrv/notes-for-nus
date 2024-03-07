@@ -1,11 +1,7 @@
-# Obsidian Notes
+# Welcome to my notes!
 
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Hi! Here are some notes that I have made. You can use these to supplement your revision. Happy grinding!
+### Courses
+1. [[CS2040S Home Page]]
+2. [[IS1108 Home Page]]
+3. coming soon...

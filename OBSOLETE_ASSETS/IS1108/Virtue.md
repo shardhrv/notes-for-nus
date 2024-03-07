@@ -1,4 +1,4 @@
-[[IS1108 Table of Contents]] | [[Professional Ethics]]
+[[IS1108 Home Page]] | [[Professional Ethics]]
 ### Process
 
 What are the morals and ethics that I want to exemplify? What will my actions show about my character?

@@ -1,4 +1,4 @@
-[[IS1108 Table of Contents]]
+[[IS1108 Home Page]]
 ### Goal of Automated Systems
 
 **Automation** is the ability of a system to perform *well-defined* tasks to produce deterministic results. This is done by closely following a set of rules and algorithms without the reliance of AI technologies.

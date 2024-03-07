@@ -1,4 +1,4 @@
-[[IS1108 Table of Contents]] 
+[[IS1108 Home Page]] 
 
 Computing professionals have an ethical responsibility towards different stakeholders - each coming with their own ethical concerns. 
 

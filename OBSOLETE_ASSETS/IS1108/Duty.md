@@ -1,4 +1,4 @@
-[[IS1108 Table of Contents]] | [[Professional Ethics]]
+[[IS1108 Home Page]] | [[Professional Ethics]]
 ### Process
 
 What are my obligations in this situation? What are the things that I should never do?
